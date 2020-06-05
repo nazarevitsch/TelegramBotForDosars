@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e576e6c8-3cfc-49f4-bb33-0b5b7f580230" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/AbonentWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/Bot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/BotController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/ControllerBackEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/ControllerURLandPDF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/DosarSearcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/ERORWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/LastUpdatingDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/PDFWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/SearcherWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/StatisticCrater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/StatisticUnit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/URLWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/UnitWreiter$InputChild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/UnitWreiter$OutputChild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/UnitWreiter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/WorkWithDataBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +32,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -102,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591379098854</updated>
       <workItem from="1591379103926" duration="1398000" />
-      <workItem from="1591388718103" duration="3214000" />
+      <workItem from="1591388718103" duration="3503000" />
     </task>
     <servers />
   </component>
@@ -110,6 +94,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="722" y="74" key="#Project_Structure" timestamp="1591394221132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591394221132" />
     <state x="917" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591389215895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
