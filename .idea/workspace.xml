@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e576e6c8-3cfc-49f4-bb33-0b5b7f580230" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abonents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Abonents.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrentOrdine.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CurrentOrdine.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXCEPTIONS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EXCEPTIONS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ordine.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ordine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ordine/2018/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ordine/2018/11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ordine/2018/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ordine/2018/18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StadiuDosar.html" beforeDir="false" afterPath="$PROJECT_DIR$/StadiuDosar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/updatingDateOrdine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/updatingDateOrdine.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591379098854</updated>
       <workItem from="1591379103926" duration="1398000" />
-      <workItem from="1591388718103" duration="306000" />
+      <workItem from="1591388718103" duration="565000" />
     </task>
     <servers />
   </component>

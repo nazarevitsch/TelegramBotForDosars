@@ -15,6 +15,13 @@
                 <configuration>
                     <source>7</source>
                     <target>7</target>
+                    <assembleDirectory>target</assembleDirectory>
+                    <programs>
+                        <program>
+                            <mainClass>src.main.java.main.Main</mainClass>
+                            <name>workerBot</name>
+                        </program>
+                    </programs>
                 </configuration>
             </plugin>
         </plugins>
