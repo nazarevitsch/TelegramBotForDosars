@@ -1,1 +1,1 @@
-<mainClass>src.main.java.main.Main</mainClass>
+web: java $JAVA_OPTS -cp build/staging:build/staging/* main.Main
